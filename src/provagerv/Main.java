@@ -1,5 +1,5 @@
 package provagerv;
 
-public class Main {
+public class Main extends JavaPlugin {
 
 }
