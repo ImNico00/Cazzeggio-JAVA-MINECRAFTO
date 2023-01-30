@@ -1,0 +1,6 @@
+name: ProvaBob
+main: provagerv.Main
+version: 1.0
+author: Gervasi
+description: Si
+commands: {}
